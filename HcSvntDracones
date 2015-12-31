@@ -1,0 +1,1692 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+&nbsp;<html xmlns="http://www.w3.org/1999/xhtml"><head><meta content="en-us" http-equiv="Content-Language" /><meta content="text/html; charset=utf-8" http-equiv="Content-Type" /><title>Character Name</title><style type="text/css">
+.ms-classic1-0000-main {}
+.ms-classic1-0000-even {}
+.auto-style1 {
+    font-family: "AR DESTINE";
+	background-color: #C0C0C0;
+}
+.auto-style2 {
+	font-family: "AR DESTINE";
+	text-align: center;
+	background-color: #FFFFFF;
+}
+.auto-style3 {
+	background-color: #C0C0C0;
+}
+.auto-style4 {
+	font: normal normal normal 100% serif;
+	text-align: center;
+	background-color: #C0C0C0;
+}
+.auto-style5 {
+	border-width: 0;
+}
+.auto-style6 {
+	font-weight: normal;
+	font-family: "AR DESTINE";
+	background-color: #C0C0C0;
+}
+.auto-style10 {
+	font-family: "AR DESTINE";
+	text-align: center;
+	color: #FFFFFF;
+	background-color: #C0C0C0;
+}
+.auto-style11 {
+	font-family: "AR DESTINE";
+}
+.auto-style12 {
+	text-align: center;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.auto-style13 {
+	color: #000000;
+	font-style: italic;
+	font-size: x-large;
+	outline-color: #000000;
+	outline-style: inset;
+	outline-width: thin;
+}
+.auto-style14 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-small;
+}
+.auto-style15 {
+	font-size: x-small;
+}
+.auto-style16 {
+	font-weight: bold;
+	font-style: normal;
+	font: normal normal bold small serif;
+	text-align: center;
+	background-color: #C0C0C0;
+	color: #FFFFFF;
+}
+.auto-style18 {
+	font-size: small;
+}
+.auto-style19 {
+	text-decoration: underline;
+}
+.auto-style20 {
+	border: 2px solid #000000;
+	background-color: #C0C0C0;
+}
+.auto-style21 {
+	border: 2px solid #000000;
+}
+.auto-style22 {
+	border: 1px solid #000000;
+}
+.auto-style23 {
+	border: 1px solid #000000;
+	background-color: #C0C0C0;
+}
+																																																			   .auto-style26 {
+																																																				   font-size: xx-small;
+																																																			   }
+																																																			   .auto-style30 {
+	border: medium solid #000000;
+}
+.auto-style38 {
+	text-align: center;
+}
+.auto-style40 {
+	font-weight: bold;
+}
+.auto-style41 {
+	font-weight: bold;
+	border-left-color: #A0A0A0;
+	border-right-color: #C0C0C0;
+	border-top-color: #A0A0A0;
+	border-bottom-color: #C0C0C0;
+	padding: 1px;
+}
+.auto-style42 {
+	background-color: #C0C0C0;
+	text-align: center;
+}
+.auto-style43 {
+	text-align: center;
+	font-weight: bold;
+}
+.auto-style36 {
+	font-weight: bold;
+	border-left-color: #A0A0A0;
+	border-right-color: #C0C0C0;
+	border-top-color: #A0A0A0;
+	border-bottom-color: #C0C0C0;
+	padding: 4px;
+}
+.auto-style37 {
+	font-weight: bold;
+	text-align: center;
+	border-left-color: #A0A0A0;
+	border-right-color: #C0C0C0;
+	border-top-color: #A0A0A0;
+	border-bottom-color: #C0C0C0;
+	padding: 4px;
+}
+.auto-style25 {
+	margin-left: 0px;
+}
+																																																			   .auto-style28 {
+	text-align: center;
+	border-right-color: #000000;
+}
+																																																			   .auto-style31 {
+	font-style: normal;
+	font: normal normal bold 100% serif;
+	text-align: center;
+}
+.auto-style32 {
+	font-style: normal;
+	font-weight: normal;
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
+																																																			   .auto-style27 {
+																																																				   margin-top: 0px;
+																																																			   }
+																																																			   .auto-style29 {
+																																																				   border: 2px solid #000000;
+																																																				   background-color: #C0C0C0;
+																																																				   text-align: center;
+																																																			   }
+																																																			   .auto-style44 {
+	border: 1px solid #000000;
+	text-decoration: underline;
+}
+.auto-style45 {
+	padding: 0;
+	font: normal normal normal 100% serif;
+	text-align: center;
+	background-color: #C0C0C0;
+}
+																																																			   </style></head><body><table style="width: 100%">
+	<tr>
+	<div class=formblock>
+		<td style="width: 167px">Character Name:<form method="post" style="width: 159px">
+			<input name="attr_charname" type="text" /></form>
+		</td>
+		<td style="width: 142px">Gender:<form method="post">
+			<input name="attr_gender" type="text" /></form>
+		</td>
+		<td style="width: 131px">Family:<form method="post">
+			<input name="attr_family" type="text" /></form>
+		</td>
+		<td style="width: 134px">Species:
+		<form method="post">
+			<input name="attr_species" type="text" /></form>
+		</td>
+		<td>Family Perk:<form method="post">
+			<input name="attr_familyperk" type="text" style="height: 22px" /></form>
+		</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td style="width: 167px">Motivation:<form method="post">
+			<input name="attr_motivation" type="text" /></form>
+		</td>
+		<td style="width: 142px">Morphism:<form method="post">
+			<input name="attr_morphism" type="text" /></form>
+		</td>
+		<td style="width: 131px">Height:<form method="post">
+			<input name="attr_charheight" style="width: 59px; height: 22px;" type="text" /></form>
+		</td>
+		<td style="width: 134px">Weight:<form method="post">
+			<input name="attr_charweight" style="width: 58px" type="text" /></form>
+		</td>
+		<td>
+		<form method="post">
+		</form>
+		</td>
+		<td>&nbsp;</td>
+	</tr>
+</table>
+<label id="Label3"></label><label id="Label2"></label>
+<table align="center" style="width: 53%; background-color: #FFFFFF;">
+	<tr>
+		<td class="auto-style4">Mind</td>
+		<td class="auto-style2">Body</td>
+		<td class="auto-style1">&nbsp;</td>
+		<td class="auto-style2"><strong>COMMUNTY</strong></td>
+		<td class="auto-style4"><strong>ECONOMY</strong></td>
+	</tr>
+	<tr>
+		<td class="auto-style3"><strong>
+		<input checked="checked" disabled="disabled" name="attr_bodystat1" type="checkbox" value="1" /><input name="attr_bodystat2" type="checkbox" value="1" /><input name="attr_bodystat3" type="checkbox" value="1" /><input name="attr_bodystat4" type="checkbox" value="1" /><input name="attr_bodystat5" type="checkbox" value="1" /></strong></td>
+		<td><strong>
+		<input checked="checked" disabled="disabled" name="attr_mindstat1" type="checkbox" value="1" /><input name="attr_mindstat2" type="checkbox" value="1" /><input name="attr_mindstat3" type="checkbox" value="1" /><input name="attr_mindstat4" type="checkbox" value="1" /><input name="attr_mindstat5" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style45">DEXTERITY</td>
+		<td><strong>
+		<input checked="checked" disabled="disabled" name="attr_communitystat1" type="checkbox" value="1" /><input name="attr_communitystat2" type="checkbox" value="1" /><input name="attr_communitystat3" type="checkbox" value="1" /><input name="attr_communitystat4" type="checkbox" value="1" /><input name="attr_communitystat5" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style3"><strong>
+		<input checked="checked" disabled="disabled" name="attr_economystat1" type="checkbox" value="1" /><input name="attr_economystat2" type="checkbox" value="1" /><input name="attr_economystat3" type="checkbox" value="1" /><input name="attr_economystat4" type="checkbox" value="1" /><input name="attr_economystat5" type="checkbox" value="1" /></strong></td>
+	</tr>
+	<tr>
+		<td class="auto-style3"><strong>
+		<input checked="checked" disabled="disabled" name="attr_bodystat6" type="checkbox" value="1" /><input name="attr_bodystat7" type="checkbox" value="1" /><input name="attr_bodystat8" type="checkbox" value="1" /><input name="attr_bodystat9" type="checkbox" value="1" /><input name="attr_bodystat10" type="checkbox" value="1" /></strong></td>
+		<td><strong>
+		<input checked="checked" disabled="disabled" name="attr_mindstat6" type="checkbox" value="1" /><input name="attr_mindstat7" type="checkbox" value="1" /><input name="attr_mindstat8" type="checkbox" value="1" /><input name="attr_mindstat9" type="checkbox" value="1" /><input name="attr_mindstat10" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style4">RESILIENCE</td>
+		<td><strong>
+		<input checked="checked" disabled="disabled" name="attr_communitystat6" type="checkbox" value="1" /><input name="attr_communitystat7" type="checkbox" value="1" /><input name="attr_communitystat8" type="checkbox" value="1" /><input name="attr_communitystat9" type="checkbox" value="1" /><input name="attr_communitystat10" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style3"><strong>
+		<input checked="checked" disabled="disabled" name="attr_economystat6" type="checkbox" value="1" /><input name="attr_economystat7" type="checkbox" value="1" /><input name="attr_economystat8" type="checkbox" value="1" /><input name="attr_economystat9" type="checkbox" value="1" /><input name="attr_economystat10" type="checkbox" value="1" /></strong></td>
+	</tr>
+	<tr>
+		<td class="auto-style3"><strong>
+		<input checked="checked" disabled="disabled" name="attr_bodystat11" type="checkbox" value="1" /><input name="attr_bodystat12" type="checkbox" value="1" /><input name="attr_bodystat13" type="checkbox" value="1" /><input name="attr_bodystat14" type="checkbox" value="1" /><input name="attr_bodystat15" type="checkbox" value="1" /></strong></td>
+		<td><strong>
+		<input checked="checked" disabled="disabled" name="attr_mindstat11" type="checkbox" value="1" /><input name="attr_mindstat12" type="checkbox" value="1" /><input name="attr_mindstat13" type="checkbox" value="1" /><input name="attr_mindstat14" type="checkbox" value="1" /><input name="attr_mindstat15" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style4">ACUITY</td>
+		<td><strong>
+		<input checked="checked" disabled="disabled" name="attr_communitystat11" type="checkbox" value="1" /><input name="attr_communitystat12" type="checkbox" value="1" /><input name="attr_communitystat13" type="checkbox" value="1" /><input name="attr_communitystat14" type="checkbox" value="1" /><input name="attr_communitystat15" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style3"><strong>
+		<input checked="checked" disabled="disabled" name="attr_economystat11" type="checkbox" value="1" /><input name="attr_economystat12" type="checkbox" value="1" /><input name="attr_economystat13" type="checkbox" value="1" /><input name="attr_economystat14" type="checkbox" value="1" /><input name="attr_economystat15" type="checkbox" value="1" /></strong></td>
+	</tr>
+	<tr>
+		<td class="auto-style3"><strong>
+		<input checked="checked" disabled="disabled" name="attr_bodystat16" type="checkbox" value="1" /><input name="attr_bodystat17" type="checkbox" value="1" /><input name="attr_bodystat18" type="checkbox" value="1" /><input name="attr_bodystat19" type="checkbox" value="1" /><input name="attr_bodystat20" type="checkbox" value="1" /></strong></td>
+		<td><strong>
+		<input checked="checked" disabled="disabled" name="attr_mindstat16" type="checkbox" value="1" /><input name="attr_mindstat17" type="checkbox" value="1" /><input name="attr_mindstat18" type="checkbox" value="1" /><input name="attr_mindstat19" type="checkbox" value="1" /><input name="attr_mindstat20" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style4">STRENGTH</td>
+		<td><strong>
+		<input checked="checked" disabled="disabled" name="attr_communitystat16" type="checkbox" value="1" /><input name="attr_communitystat17" type="checkbox" value="1" /><input name="attr_communitystat18" type="checkbox" value="1" /><input name="attr_communitystat19" type="checkbox" value="1" /><input name="attr_communitystat20" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style3"><strong>
+		<input checked="checked" disabled="disabled" name="attr_economystat16" type="checkbox" value="1" /><input name="attr_economystat17" type="checkbox" value="1" /><input name="attr_economystat18" type="checkbox" value="1" /><input name="attr_economystat19" type="checkbox" value="1" /><input name="attr_economystat20" type="checkbox" value="1" /></strong></td>
+	</tr>
+	<tr>
+		<td class="auto-style3"><strong>
+		<input checked="checked" disabled="disabled" name="attr_bodystat21" type="checkbox" value="1" /><input name="attr_bodystat22" type="checkbox" value="1" /><input name="attr_bodystat23" type="checkbox" value="1" /><input name="attr_bodystat24" type="checkbox" value="1" /><input name="attr_bodystat25" type="checkbox" value="1" /></strong></td>
+		<td><strong>
+		<input checked="checked" disabled="disabled" name="attr_mindstat21" type="checkbox" value="1" /><input name="attr_mindstat22" type="checkbox" value="1" /><input name="attr_mindstat23" type="checkbox" value="1" /><input name="attr_mindstat24" type="checkbox" value="1" /><input name="attr_mindstat25" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style4">PRESENCE</td>
+		<td><strong>
+		<input checked="checked" disabled="disabled" name="attr_communitystat21" type="checkbox" value="1" /><input name="attr_communitystat22" type="checkbox" value="1" /><input name="attr_communitystat23" type="checkbox" value="1" /><input name="attr_communitystat24" type="checkbox" value="1" /><input name="attr_communitystat25" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style3"><strong>
+		<input checked="checked" disabled="disabled" name="attr_economystat21" type="checkbox" value="1" /><input name="attr_economystat22" type="checkbox" value="1" /><input name="attr_economystat23" type="checkbox" value="1" /><input name="attr_economystat24" type="checkbox" value="1" /><input name="attr_economystat25" type="checkbox" value="1" /></strong></td>
+	</tr>
+	<tr>
+		<td class="auto-style3">Dice:&nbsp;&nbsp;&nbsp;
+		<select name="attr_bodydice" style="width: 64px">
+		<option></option>
+		<option>D8</option>
+		<option>D10</option>
+		<option>D12</option>
+		</select></td>
+		<td>Dice:&nbsp;&nbsp;&nbsp; 
+		<select name="attr_minddice" style="width: 64px">
+		<option></option>
+		<option>D8</option>
+		<option>D10</option>
+		<option>D12</option>
+		</select></td>
+		<td class="auto-style4">&nbsp;</td>
+		<td>Dice:&nbsp;&nbsp;&nbsp; 
+		<select name="attr_communitydice" style="width: 64px">
+		<option></option>
+		<option>D8</option>
+		<option>D10</option>
+		<option>D12</option>
+		</select></td>
+		<td class="auto-style3">Dice:&nbsp;&nbsp;&nbsp;
+		<select name="attr_economydie" style="width: 64px">
+		<option></option>
+		<option>D8</option>
+		<option>D10</option>
+		<option>D12</option>
+		</select></td>
+	</tr>
+</table>
+<label id="Label4"><br />
+<table style="width: 100px">
+	<tr>
+		<td>
+<table cellpadding="0" cellspacing="1" class="auto-style5" style="width: 0; background-color: #C0C0C0; top: auto; outline-color: #000000; outline-width: thin; outline-style: solid; color: #000000;">
+	<tr>
+		<th class="auto-style6" colspan="5">
+		<h3 class="auto-style13">PROFICIENCIES</h3>
+		</th>
+	</tr>
+	<tr>
+		<td style="font: normal normal bold 100% serif; width: 185px; background-color: #C0C0C0; color: #FFFFFF; text-align: center;" class="auto-style43" colspan="3">
+		Science</td>
+		<td style="font-weight: bold; font: normal normal bold x-small serif; background-color: #C0C0C0; color: #FFFFFF;" class="auto-style38" colspan="2">conditional modifiers</td>
+		</tr>
+	<tr>
+		<td class="auto-style3" style="font: small serif; width: 68px">Booksmarts</td>
+		<td class="auto-style3" style="font: small serif; width: 68px">&nbsp;</td>
+		<td class="auto-style1" style="width: 85px" colspan="2"><strong>
+		<input name="attr_skill249" type="checkbox" value="1" /><input name="attr_skill250" type="checkbox" value="1" /><input name="attr_skill251" type="checkbox" value="1" /><input name="attr_skill252" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style1" style="width: 85px">
+			<input name="attr_skillmodifier64" type="text" style="width: 60px" /></td>
+	</tr>
+	<tr>
+		<td class="auto-style3" style="font: small serif; width: 68px">Medicine</td>
+		<td class="auto-style3" style="font: small serif; width: 68px">&nbsp;</td>
+		<td class="auto-style1" style="width: 85px" colspan="2"><strong>
+		<input name="attr_skill253" type="checkbox" value="1" /><input name="attr_skill254" type="checkbox" value="1" /><input name="attr_skill255" type="checkbox" value="1" /><input name="attr_skill256" type="checkbox" value="1" /></strong></td>
+		<td>
+			<input name="attr_skillmodifier65" type="text" style="width: 60px" /></td>
+	</tr>
+	<tr>
+		<td class="auto-style3" style="font: small serif; width: 68px">Sciences</td>
+		<td class="auto-style3" style="font: small serif; width: 68px">&nbsp;</td>
+		<td class="auto-style1" style="width: 85px" colspan="2"><strong>
+		<input name="attr_skill257" type="checkbox" value="1" /><input name="attr_skill258" type="checkbox" value="1" /><input name="attr_skill259" type="checkbox" value="1" /><input name="attr_skill260" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style1" style="width: 85px">
+			<input name="attr_skillmodifier66" type="text" style="width: 60px" /></td>
+	</tr>
+	<tr>
+		<td class="auto-style3" style="font: small serif; width: 68px; height: 26px; background-color: #C0C0C0">
+		Investigation</td>
+		<td class="auto-style3" style="font: small serif; width: 68px; height: 26px; background-color: #C0C0C0">
+		&nbsp;</td>
+		<td class="auto-style1" style="width: 85px; height: 26px; background-color: #C0C0C0" colspan="2">
+		<strong>
+		<input name="attr_skill261" type="checkbox" value="1" /><input name="attr_skill262" type="checkbox" value="1" /><input name="attr_skill263" type="checkbox" value="1" /><input name="attr_skill264" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style1" style="width: 85px; height: 26px">
+			<input name="attr_skillmodifier67" type="text" style="width: 60px" /></td>
+	</tr>
+	<tr>
+		<th style="width: 185px; background-color: #FFFFFF; font-weight: bold; text-align: center;" class="auto-style38" colspan="3">
+		Engineering</th>
+		<td style="background-color: #FFFFFF; font-weight: bold;" class="auto-style38" colspan="2"></td>
+	</tr>
+	<tr>
+		<td style="font: small serif; width: 68px; background-color: #FFFFFF;">Computers</td>
+		<td style="font: small serif; width: 68px; background-color: #FFFFFF;">&nbsp;</td>
+		<td class="auto-style2" style="width: 85px; background-color: #FFFFFF;" colspan="2"><strong>
+		<input name="attr_skill265" type="checkbox" value="1" /><input name="attr_skill266" type="checkbox" value="1" /><input name="attr_skill267" type="checkbox" value="1" /><input name="attr_skill268" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style11" style="width: 85px; background-color: #FFFFFF;">
+			<input name="attr_skillmodifier68" type="text" style="width: 60px" /></td>
+	</tr>
+	<tr>
+		<td style="font: small serif; width: 68px; background-color: #FFFFFF;">Craft</td>
+		<td style="font: small serif; width: 68px; background-color: #FFFFFF;">&nbsp;</td>
+		<td class="auto-style2" style="width: 85px; background-color: #FFFFFF;" colspan="2"><strong>
+		<input name="attr_skill269" type="checkbox" value="1" /><input name="attr_skill270" type="checkbox" value="1" /><input name="attr_skill271" type="checkbox" value="1" /><input name="attr_skill272" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style11" style="width: 85px; background-color: #FFFFFF;">
+			<input name="attr_skillmodifier69" type="text" style="width: 60px" /></td>
+	</tr>
+	<tr>
+		<td style="font: small serif; width: 68px; background-color: #FFFFFF;">Repair</td>
+		<td style="font: small serif; width: 68px; background-color: #FFFFFF;">&nbsp;</td>
+		<td class="auto-style2" style="width: 85px; background-color: #FFFFFF;" colspan="2"><strong>
+		<input name="attr_skill273" type="checkbox" value="1" /><input name="attr_skill274" type="checkbox" value="1" /><input name="attr_skill275" type="checkbox" value="1" /><input name="attr_skill276" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style11" style="width: 85px; background-color: #FFFFFF;">
+			<input name="attr_skillmodifier70" type="text" style="width: 60px" /></td>
+	</tr>
+	<tr>
+		<td style="font: small serif; width: 68px; background-color: #FFFFFF;">Robotics</td>
+		<td style="font: small serif; width: 68px; background-color: #FFFFFF;">&nbsp;</td>
+		<td class="auto-style2" style="width: 85px; background-color: #FFFFFF;" colspan="2"><strong>
+		<input name="attr_skill277" type="checkbox" value="1" /><input name="attr_skill278" type="checkbox" value="1" /><input name="attr_skill279" type="checkbox" value="1" /><input name="attr_skill280" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style11" style="width: 85px; background-color: #FFFFFF;">
+			<input name="attr_skillmodifier71" type="text" style="width: 60px" /></td>
+	</tr>
+	<tr>
+		<th class="auto-style16" style="font: normal normal bold 100% serif; width: 185px; text-align: center;" colspan="3">
+		Combat</th>
+		<td class="auto-style16" colspan="2">&nbsp;</td>
+	</tr>
+	<tr>
+		<td class="auto-style3" style="font: small serif; width: 68px">C-Q-C</td>
+		<td class="auto-style3" style="font: small serif; width: 68px">&nbsp;</td>
+		<td class="auto-style10" style="width: 85px" colspan="2"><strong>
+		<input name="attr_skill281" type="checkbox" value="1" /><input name="attr_skill282" type="checkbox" value="1" /><input name="attr_skill283" type="checkbox" value="1" /><input name="attr_skill284" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style1" style="width: 85px">
+			<input name="attr_skillmodifier72" type="text" style="width: 60px" /></td>
+	</tr>
+	<tr>
+		<td class="auto-style3" style="font: small serif; width: 68px">Ranged Combat</td>
+		<td class="auto-style3" style="font: small serif; width: 68px">&nbsp;</td>
+		<td class="auto-style10" style="width: 85px" colspan="2"><strong>
+		<input name="attr_skill285" type="checkbox" value="1" /><input name="attr_skill286" type="checkbox" value="1" /><input name="attr_skill287" type="checkbox" value="1" /><input name="attr_skill288" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style1" style="width: 85px">
+			<input name="attr_skillmodifier73" type="text" style="width: 60px" /></td>
+	</tr>
+	<tr>
+		<td class="auto-style3" style="font: small serif; width: 68px">Security</td>
+		<td class="auto-style3" style="font: small serif; width: 68px">&nbsp;</td>
+		<td class="auto-style10" style="width: 85px" colspan="2"><strong>
+		<input name="attr_skill289" type="checkbox" value="1" /><input name="attr_skill290" type="checkbox" value="1" /><input name="attr_skill291" type="checkbox" value="1" /><input name="attr_skill292" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style1" style="width: 85px">
+			<input name="attr_skillmodifier74" type="text" style="width: 60px" /></td>
+	</tr>
+	<tr>
+		<td class="auto-style3" style="font: small serif; width: 68px">Survival</td>
+		<td class="auto-style3" style="font: small serif; width: 68px">&nbsp;</td>
+		<td class="auto-style10" style="width: 85px" colspan="2"><strong>
+		<input name="attr_skill293" type="checkbox" value="1" /><input name="attr_skill294" type="checkbox" value="1" /><input name="attr_skill295" type="checkbox" value="1" /><input name="attr_skill296" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style1" style="width: 85px">
+			<input name="attr_skillmodifier75" type="text" style="width: 60px" /></td>
+	</tr>
+	<tr>
+		<th style="font: normal normal bold 100%; width: 185px; background-color: #FFFFFF; text-align: center;" class="auto-style38" colspan="3">
+		Communication</th>
+		<td style="font: normal normal bold 100% serif; background-color: #FFFFFF;" class="auto-style38" colspan="2">
+		&nbsp;</td>
+	</tr>
+	<tr>
+<label id="Label4">
+		<td style="font: small serif; width: 68px; background-color: #FFFFFF;">
+		Coercion</td>
+</label>
+		<td style="font: small serif; width: 68px; background-color: #FFFFFF; height: 23px;">
+		&nbsp;</td>
+		<td class="auto-style12" style="width: 85px; background-color: #FFFFFF; height: 23px;" colspan="2"><strong>
+		<input name="attr_skill297" type="checkbox" value="1" /><input name="attr_skill298" type="checkbox" value="1" /><input name="attr_skill299" type="checkbox" value="1" /><input name="attr_skill300" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style11" style="width: 85px; background-color: #FFFFFF; height: 23px;">
+			<input name="attr_skillmodifier76" type="text" style="width: 60px" /></td>
+	</tr>
+	<tr>
+		<td style="font: small serif; width: 68px; background-color: #FFFFFF;">
+		Command</td>
+		<td style="font: small serif; width: 68px; background-color: #FFFFFF;">&nbsp;</td>
+		<td class="auto-style2" style="width: 85px; background-color: #FFFFFF;" colspan="2"><strong>
+		<input name="attr_skill301" type="checkbox" value="1" /><input name="attr_skill302" type="checkbox" value="1" /><input name="attr_skill303" type="checkbox" value="1" /><input name="attr_skill304" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style11" style="width: 85px; background-color: #FFFFFF;">
+			<input name="attr_skillmodifier77" type="text" style="width: 60px" /></td>
+	</tr>
+	<tr>
+		<td style="font: small serif; width: 68px; background-color: #FFFFFF;">Deception</td>
+		<td style="font: small serif; width: 68px; background-color: #FFFFFF;">&nbsp;</td>
+		<td class="auto-style2" style="width: 85px; background-color: #FFFFFF;" colspan="2"><strong>
+		<input name="attr_skill305" type="checkbox" value="1" /><input name="attr_skill306" type="checkbox" value="1" /><input name="attr_skill307" type="checkbox" value="1" /><input name="attr_skill308" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style11" style="width: 85px; background-color: #FFFFFF;">
+			<input name="attr_skillmodifier78" type="text" style="width: 60px" /></td>
+	</tr>
+	<tr>
+		<td style="font: small serif; width: 68px; background-color: #FFFFFF;">Express</td>
+		<td style="font: small serif; width: 68px; background-color: #FFFFFF;">&nbsp;</td>
+		<td class="auto-style2" style="width: 85px; background-color: #FFFFFF;" colspan="2"><strong>
+		<input name="attr_skill309" type="checkbox" value="1" /><input name="attr_skill310" type="checkbox" value="1" /><input name="attr_skill311" type="checkbox" value="1" /><input name="attr_skill312" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style11" style="width: 85px; background-color: #FFFFFF;">
+			<input name="attr_skillmodifier79" type="text" style="width: 60px" /></td>
+	</tr>
+	<tr>
+		<td style="font: small serif; width: 68px; background-color: #FFFFFF;">Inspire</td>
+		<td style="font: small serif; width: 68px; background-color: #FFFFFF;">&nbsp;</td>
+		<td class="auto-style2" style="width: 85px; background-color: #FFFFFF;" colspan="2"><strong>
+		<input name="attr_skill313" type="checkbox" value="1" /><input name="attr_skill314" type="checkbox" value="1" /><input name="attr_skill315" type="checkbox" value="1" /><input name="attr_skill316" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style11" style="width: 85px; background-color: #FFFFFF;">
+			<input name="attr_skillmodifier80" type="text" style="width: 60px" /></td>
+	</tr>
+	<tr>
+		<td style="font: small serif; width: 68px; background-color: #FFFFFF;">Intimidate</td>
+		<td style="font: small serif; width: 68px; background-color: #FFFFFF;">&nbsp;</td>
+		<td class="auto-style2" style="width: 85px; background-color: #FFFFFF;" colspan="2"><strong>
+		<input name="attr_skill317" type="checkbox" value="1" /><input name="attr_skill318" type="checkbox" value="1" /><input name="attr_skill319" type="checkbox" value="1" /><input name="attr_skill320" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style11" style="width: 85px; background-color: #FFFFFF;">
+			<input name="attr_skillmodifier81" type="text" style="width: 60px" /></td>
+	</tr>
+	<tr>
+		<td class="auto-style42" style="font: normal normal bold 100%; width: 185px; background-color: #C0C0C0; color: #FFFFFF; text-align: center;" colspan="3">
+		General</td>
+		<td class="auto-style42" style="font: normal normal bold 100% serif; background-color: #C0C0C0; color: #FFFFFF;" colspan="2">
+		&nbsp;</td>
+	</tr>
+	<tr>
+		<td class="auto-style3" style="font: small serif; width: 68px; height: 23px">Athletics</td>
+		<td class="auto-style3" style="font: small serif; width: 68px; height: 23px">
+		&nbsp;</td>
+		<td class="auto-style10" style="width: 85px; height: 23px" colspan="2"><strong>
+		<input name="attr_skill321" type="checkbox" value="1" /><input name="attr_skill322" type="checkbox" value="1" /><input name="attr_skill323" type="checkbox" value="1" /><input name="attr_skill324" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style1" style="height: 23px; width: 85px">
+			<input name="attr_skillmodifier82" type="text" style="width: 60px" /></td>
+	</tr>
+	<tr>
+		<td class="auto-style3" style="font: small serif; width: 68px">Finance</td>
+		<td class="auto-style3" style="font: small serif; width: 68px">&nbsp;</td>
+		<td class="auto-style10" style="width: 85px" colspan="2"><strong>
+		<input name="attr_skill325" type="checkbox" value="1" /><input name="attr_skill326" type="checkbox" value="1" /><input name="attr_skill327" type="checkbox" value="1" /><input name="attr_skill328" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style1" style="width: 85px">
+			<input name="attr_skillmodifier83" type="text" style="width: 60px" /></td>
+	</tr>
+	<tr>
+		<td class="auto-style3" style="font: small serif; width: 68px">Fly</td>
+		<td class="auto-style3" style="font: small serif; width: 68px">&nbsp;</td>
+		<td class="auto-style10" style="width: 85px" colspan="2"><strong>
+		<input name="attr_skill329" type="checkbox" value="1" /><input name="attr_skill330" type="checkbox" value="1" /><input name="attr_skill331" type="checkbox" value="1" /><input name="attr_skill332" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style1" style="width: 85px">
+			<input name="attr_skillmodifier84" type="text" style="width: 60px" /></td>
+	</tr>
+	<tr>
+		<td class="auto-style3" style="font: small serif; width: 68px">Lock Pick</td>
+		<td class="auto-style3" style="font: small serif; width: 68px">&nbsp;</td>
+		<td class="auto-style10" style="width: 85px" colspan="2"><strong>
+		<input name="attr_skill333" type="checkbox" value="1" /><input name="attr_skill334" type="checkbox" value="1" /><input name="attr_skill335" type="checkbox" value="1" /><input name="attr_skill336" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style1" style="width: 85px">
+			<input name="attr_skillmodifier85" type="text" style="width: 60px" /></td>
+	</tr>
+	<tr>
+		<td class="auto-style3" style="font: small serif; width: 68px">Navigate</td>
+		<td class="auto-style3" style="font: small serif; width: 68px">&nbsp;</td>
+		<td class="auto-style10" style="width: 85px" colspan="2"><strong>
+		<input name="attr_skill337" type="checkbox" value="1" /><input name="attr_skill338" type="checkbox" value="1" /><input name="attr_skill339" type="checkbox" value="1" /><input name="attr_skill340" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style1" style="width: 85px">
+			<input name="attr_skillmodifier86" type="text" style="width: 60px" /></td>
+	</tr>
+	<tr>
+		<td class="auto-style3" style="font: small serif; width: 68px">Operate</td>
+		<td class="auto-style3" style="font: small serif; width: 68px">&nbsp;</td>
+		<td class="auto-style10" style="width: 85px" colspan="2"><strong>
+		<input name="attr_skill341" type="checkbox" value="1" /><input name="attr_skill342" type="checkbox" value="1" /><input name="attr_skill343" type="checkbox" value="1" /><input name="attr_skill344" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style1" style="width: 85px">
+			<input name="attr_skillmodifier87" type="text" style="width: 60px" /></td>
+	</tr>
+	<tr>
+		<td class="auto-style3" style="font: small serif; width: 68px">Pilot</td>
+		<td class="auto-style3" style="font: small serif; width: 68px">&nbsp;</td>
+		<td class="auto-style10" style="width: 85px" colspan="2"><strong>
+		<input name="attr_skill345" type="checkbox" value="1" /><input name="attr_skill346" type="checkbox" value="1" /><input name="attr_skill347" type="checkbox" value="1" /><input name="attr_skill348" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style1" style="width: 85px">
+			<input name="attr_skillmodifier88" type="text" style="width: 60px" /></td>
+	</tr>
+	<tr>
+		<td class="auto-style3" style="font: small serif; width: 68px">Scent</td>
+		<td class="auto-style3" style="font: small serif; width: 68px">&nbsp;</td>
+		<td class="auto-style10" style="width: 85px" colspan="2"><strong>
+		<input name="attr_skill349" type="checkbox" value="1" /><input name="attr_skill350" type="checkbox" value="1" /><input name="attr_skill351" type="checkbox" value="1" /><input name="attr_skill352" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style1" style="width: 85px">
+			<input name="attr_skillmodifier89" type="text" style="width: 60px" /></td>
+	</tr>
+	<tr>
+<label id="Label64">
+		<td class="auto-style3" style="font: small serif; width: 68px">Sneak</td>
+		<td class="auto-style3" style="font: small serif; width: 68px">&nbsp;</td>
+		<td class="auto-style10" style="width: 85px" colspan="2"><strong>
+		<input name="attr_skill373" type="checkbox" value="1" /><input name="attr_skill374" type="checkbox" value="1" /><input name="attr_skill375" type="checkbox" value="1" /><input name="attr_skill376" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style1" style="width: 85px">
+			<input name="attr_skillmodifier95" type="text" style="width: 60px" /></td>
+</label>
+	</tr>
+	<tr>
+		<td class="auto-style3" style="font: small serif; width: 68px">Spot</td>
+		<td class="auto-style3" style="font: small serif; width: 68px">&nbsp;</td>
+		<td class="auto-style10" style="width: 85px" colspan="2"><strong>
+		<input name="attr_skill353" type="checkbox" value="1" /><input name="attr_skill354" type="checkbox" value="1" /><input name="attr_skill355" type="checkbox" value="1" /><input name="attr_skill356" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style1" style="width: 85px">
+			<input name="attr_skillmodifier90" type="text" style="width: 60px" /></td>
+	</tr>
+	<tr>
+		<td class="auto-style3" style="font: small serif; width: 68px">Streetsmarts</td>
+		<td class="auto-style3" style="font: small serif; width: 68px">&nbsp;</td>
+		<td class="auto-style10" style="width: 85px" colspan="2"><strong>
+		<input name="attr_skill357" type="checkbox" value="1" /><input name="attr_skill358" type="checkbox" value="1" /><input name="attr_skill359" type="checkbox" value="1" /><input name="attr_skill360" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style1" style="width: 85px">
+			<input name="attr_skillmodifier91" type="text" style="width: 60px" /></td>
+	</tr>
+	<tr>
+		<td class="auto-style3" style="font: small serif; width: 68px; background-color: #C0C0C0;">Swim</td>
+		<td class="auto-style3" style="font: small serif; width: 68px; background-color: #C0C0C0;">
+		&nbsp;</td>
+		<td class="auto-style10" style="width: 85px" colspan="2"><strong>
+		<input name="attr_skill361" type="checkbox" value="1" /><input name="attr_skill362" type="checkbox" value="1" /><input name="attr_skill363" type="checkbox" value="1" /><input name="attr_skill364" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style1" style="width: 85px">
+			<input name="attr_skillmodifier92" type="text" style="width: 60px" /></td>
+	</tr>
+	<tr>
+		<td style="width: 68px; background-color: #FFFFFF;">
+			<input name="attr_customskill5" type="text" /></td>
+		<td style="width: 68px; background-color: #FFFFFF;">
+			&nbsp;</td>
+		<td class="auto-style12" style="width: 85px; background-color: #FFFFFF;" colspan="2"><strong>
+		<input name="attr_skill365" type="checkbox" value="1" /><input name="attr_skill366" type="checkbox" value="1" /><input name="attr_skill367" type="checkbox" value="1" /><input name="attr_skill368" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style11" style="width: 85px; background-color: #FFFFFF;">
+			<input name="attr_skillmodifier93" type="text" style="width: 60px" /></td>
+	</tr>
+	<tr>
+		<td style="width: 68px; background-color: #FFFFFF;">
+			<input name="attr_customskill6" type="text" /></td>
+		<td style="width: 68px; background-color: #FFFFFF;">
+			&nbsp;</td>
+		<td class="auto-style12" style="width: 85px; background-color: #FFFFFF;" colspan="2"><strong>
+		<input name="attr_skill369" type="checkbox" value="1" /><input name="attr_skill370" type="checkbox" value="1" /><input name="attr_skill371" type="checkbox" value="1" /><input name="attr_skill372" type="checkbox" value="1" /></strong></td>
+		<td class="auto-style11" style="width: 85px; background-color: #FFFFFF;">
+			<input name="attr_skillmodifier94" type="text" style="width: 60px" /></td>
+	</tr>
+	<tr>
+		<td style="width: 68px; background-color: #FFFFFF;">
+		&nbsp;</td>
+		<td style="width: 68px; background-color: #FFFFFF;">
+		&nbsp;</td>
+		<td class="auto-style12" style="width: 85px; background-color: #FFFFFF;" colspan="2">
+		&nbsp;</td>
+		<td class="auto-style11" style="width: 85px; background-color: #FFFFFF;">
+		&nbsp;</td>
+	</tr>
+	<tr>
+		<td class="auto-style16" colspan="5">
+		Corp Allegiance</td>
+	</tr>
+	<tr>
+		<td style="width: 68px">
+		&nbsp;</td>
+		<td style="width: 68px">
+		&nbsp;</td>
+		<td class="auto-style12" style="width: 85px" colspan="2">&nbsp;</td>
+		<td class="auto-style11" style="width: 85px">
+		&nbsp;</td>
+	</tr>
+	<tr>
+		<td style="width: 68px">
+		MarsCO</td>
+		<td style="width: 68px">
+		&nbsp;</td>
+		<td class="auto-style12" style="width: 85px" colspan="2">
+		<input name="attr_allegmarsco1" type="text" /></td>
+		<td class="auto-style11" style="width: 85px">
+		&nbsp;</td>
+	</tr>
+	<tr>
+		<td style="width: 68px">
+		ASR</td>
+		<td style="width: 68px">
+		&nbsp;</td>
+		<td class="auto-style12" style="width: 85px" colspan="2">
+		<input name="attr_allegasr1" type="text" /></td>
+		<td class="auto-style11" style="width: 85px; font-size: medium;">
+		Education</td>
+	</tr>
+	<tr>
+		<td style="width: 68px">
+		Pulse</td>
+		<td style="width: 68px">
+		&nbsp;</td>
+		<td class="auto-style12" style="width: 85px" colspan="2">
+		<input name="attr_allegpulse1" type="text" /></td>
+		<td class="auto-style11" style="width: 85px; font-size: small;">
+		Primary Corp</td>
+	</tr>
+	<tr>
+		<td style="width: 68px">
+		IRPF</td>
+		<td style="width: 68px">
+		&nbsp;</td>
+		<td class="auto-style12" style="width: 85px" colspan="2">
+		<input name="attr_allegirpf1" type="text" /></td>
+		<td class="auto-style11" style="width: 85px">
+		<input name="attr_primarycorp1" type="text" /></td>
+	</tr>
+	<tr>
+		<td style="width: 68px">
+		Spyglass</td>
+		<td style="width: 68px">
+		&nbsp;</td>
+		<td class="auto-style12" style="width: 85px" colspan="2">
+		<input name="attr_allegspyglass1" type="text" /></td>
+		<td class="auto-style11" style="width: 85px; font-size: small;">
+		Secondary Corp</td>
+	</tr>
+	<tr>
+		<td style="width: 68px">
+		Progenitus</td>
+		<td style="width: 68px">
+		&nbsp;</td>
+		<td class="auto-style12" style="width: 85px" colspan="2">
+		<input name="attr_allegprogenitus1" type="text" /></td>
+		<td class="auto-style11" style="width: 85px">
+		<input name="attr_secondarycorp1" type="text" /></td>
+	</tr>
+	<tr>
+		<td style="width: 68px">
+		TTI</td>
+		<td style="width: 68px">
+		&nbsp;</td>
+		<td class="auto-style12" style="width: 85px" colspan="2">
+		<input name="attr_allegtti1" type="text" /></td>
+		<td class="auto-style11" style="width: 85px">
+		&nbsp;</td>
+	</tr>
+	</table>
+		</td>
+		<td>
+<table style="width: 638px">
+	<tr>
+		<td class="auto-style1" style="width: 306px; height: 44px">
+		<h2 class="auto-style16">Status&nbsp; </h2>
+		</td>
+		<td class="auto-style1" style="width: 1058px; height: 44px">
+		<h2 class="auto-style16">DEFENSE&nbsp; </h2>
+		</td>
+	</tr>
+	<tr>
+		<td style="width: 306px">
+		<table style="border-left-color: #000000; border-left-width: thin; border-color: #000000; border: thin #000000 solid; width: 303px">
+			<tr>
+				<td class="auto-style11" style="border: thin; width: 219px">HIT POINTS<br />
+				<span class="auto-style14">Body STR +Body RES<label id="Label65"><label id="Label66"><label id="Label67"><select class="auto-style40" name="attr_sizemodifierhp">
+				<option value="Micro">x5 Micro</option>
+				<option selected="selected" value="Regular">X10 Standard</option>
+				</select></label></label></label></span></td>
+				<td style="width: 306px">
+				<input name="attr_charhp" type="text" style="width: 49px" /></td>
+				<td style="font: x-small serif; width: 306px">
+				custom mod:<label id="Label31"><span class="auto-style26"><input name="Text147" style="width: 30px" type="text" /></span></label></td>
+			</tr>
+			<tr>
+				<td style="width: 219px"><span class="auto-style11">READINESS</span><br />
+				<span class="auto-style15">Body ACU + Mind DEX</span></td>
+				<td style="width: 306px">
+<label id="Label23">
+				<input name="attr_charreadiness" type="text" style="width: 49px" /></label></td>
+				<td style="width: 306px">
+<label id="Label32"><span class="auto-style26">
+					<input name="Text148" style="width: 30px" type="text" /></span></label></td>
+			</tr>
+			<tr>
+				<td style="width: 219px"><span class="auto-style11">MOVEMENT</span><br />
+				<span class="auto-style15">Body RES + Body DEX</span></td>
+				<td style="width: 306px">
+<label id="Label24">
+				<input name="attr_charmovement" type="text" style="width: 49px" /></label></td>
+				<td style="width: 306px">
+<label id="Label33"><span class="auto-style26">
+					<input name="Text149" style="width: 30px" type="text" /></span></label></td>
+			</tr>
+			<tr>
+				<td style="width: 219px"><span class="auto-style11">Nerve</span><br />
+				<span class="auto-style15">Mind RES + BODY PRES x5</span></td>
+				<td style="width: 306px">
+<label id="Label25">
+				<input name="attr_charnerve" type="text" style="width: 49px" /></label></td>
+				<td style="width: 306px">
+<label id="Label34"><span class="auto-style26">
+					<input name="Text150" style="width: 30px" type="text" /></span></label></td>
+			</tr>
+			<tr>
+				<td style="width: 219px"><span class="auto-style11">RANGE</span><br />
+				<span class="auto-style15">Body Dex + Mind ACU x2</span></td>
+				<td style="width: 306px">
+<label id="Label26">
+				<input name="attr_charrange" type="text" style="width: 49px" /></label></td>
+				<td style="width: 306px">
+<label id="Label35"><span class="auto-style26">
+					<input name="Text151" style="width: 30px" type="text" /></span></label></td>
+			</tr>
+		</table>
+		</td>
+		<td style="width: 1058px">
+		<table style="border-top-width: thin; border: thin #000000 solid; border-width: thin; width: 328px; border-top-color: #000000; border-top-style: solid;">
+			<tr>
+				<td class="auto-style11" style="width: 219px">Mind</td>
+				<td class="auto-style11" style="width: 219px">Dodge<br />
+				<span class="auto-style14">DEX+ACU</span></td>
+				<td style="width: 306px">
+<label id="Label27">
+				<input name="attr_charminddodge" type="text" style="width: 49px" /></label></td>
+				<td style="width: 306px; font-size: xx-small;"><span class="auto-style15">custom mod</span><span class="auto-style26">:
+					<input name="Text1" style="width: 30px" type="text" /></span></td>
+			</tr>
+			<tr>
+				<td style="width: 219px">&nbsp;</td>
+				<td style="width: 219px"><span class="auto-style11">Resist</span><br />
+				<span class="auto-style15">STR+RES</span></td>
+				<td style="width: 306px">
+<label id="Label28">
+				<input name="attr_charmindresist" type="text" style="width: 49px" /></label></td>
+				<td style="width: 306px">
+				<input name="Text144" style="width: 30px" type="text" /></td>
+			</tr>
+			<tr>
+				<td style="background-color: #000000;" colspan="4">&nbsp;</td>
+			</tr>
+			<tr>
+				<td class="auto-style11" style="width: 219px">Body</td>
+				<td style="width: 219px"><span class="auto-style11">Dodge</span><br />
+				<span class="auto-style15">DEX+ACU</span></td>
+				<td style="width: 306px">
+<label id="Label29">
+				<input name="attr_charbodydodge" type="text" style="width: 49px" /></label></td>
+				<td style="width: 306px">
+				<input name="Text145" style="width: 30px" type="text" /></td>
+			</tr>
+			<tr>
+				<td style="width: 219px">&nbsp;</td>
+				<td style="width: 219px"><span class="auto-style11">Resist</span><br />
+				<span class="auto-style15">STR+RES</span></td>
+				<td style="width: 306px">
+<label id="Label30">
+				<input name="attr_charbodyresist" type="text" style="width: 49px" /></label></td>
+				<td style="width: 306px">
+				<input name="Text146" style="width: 30px" type="text" /></td>
+			</tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td class="auto-style2" style="width: 306px">TEMP STATUS</td>
+		<td class="auto-style2" style="width: 1058px">&nbsp;</td>
+	</tr>
+	<tr>
+		<td class="auto-style21" style="width: 306px" valign="top">
+		<table class="auto-style30" align="left">
+			<tr>
+				<td class="auto-style22" style="width: 308px">CURRENT HP</td>
+				<td class="auto-style22" style="width: 151px">
+				<input name="attr_currenthp" type="text" /></td>
+			</tr>
+			<tr>
+				<td class="auto-style22" style="width: 308px">ARMOR HP</td>
+				<td class="auto-style22" style="width: 151px">
+				<input name="attr_armorhp1" type="text" size="20" /></td>
+			</tr>
+			<tr>
+				<td class="auto-style22" style="width: 308px">SHIELD HP</td>
+				<td class="auto-style22" style="width: 151px">
+				<input name="attr_shieldhp1" type="text" size="20" /></td>
+			</tr>
+			<tr>
+				<td class="auto-style22" style="width: 308px"><span class="auto-style19">Range Attack</span><br />
+				<span class="auto-style18">(<span class="auto-style15">Add the 
+				Rate of Fire of the weapon to the Dice Pool to </span>Mind ACU 
+				Dice+ Range Combat bonus)<br />
+				Example: 3 Mind ACU + ROF1 +Skill<br />
+				4d12+1</span></td>
+				<td class="auto-style22" style="width: 151px">
+				<span class="auto-style19">Melee Attack</span><br />
+				<span class="auto-style18">(Body Dex +C.Q.C)</span></td>
+			</tr>
+			<tr>
+				<td class="auto-style44" style="width: 308px">Range Bonus 
+				Damage Dice</td>
+				<td class="auto-style22" style="width: 151px">
+				<span class="auto-style19">Melee Weapon 
+				Damage Bonus Dice:<span class="auto-style18">Small: add Body Str</span><br class="auto-style18" />
+				<span class="auto-style18">Medium: Add 1/2 Body STR</span><br class="auto-style18" />
+				<span class="auto-style18">Large: LAN add 1 die 2 if body str if 
+				5</span></span><br />
+				</td>
+			</tr>
+		</table>
+		</td>
+		<td style="width: 1058px">
+		<table style="border-bottom-color: #000000; border-left-color: #000000; border-right-color: #000000; border: thin #000000 solid; border-color: #000000; border-right: thin #000000 solid; border-left: thin #000000 solid; font: x-small serif; width: 332px; border-top-color: #000000; border-left-style: solid; border-left-width: thin; border-right-style: solid; border-right-width: thin; vertical-align: top; text-align: center;">
+			<tr>
+				<td colspan="2">
+<label id="Label22">BATTLE POOL</label></td>
+				<td>&nbsp;</td>
+			</tr>
+			<tr>
+				<td style="font: medium serif; width: 205px">4+Readiness</td>
+				<td>
+<label id="Label57">
+				<input name="attr_readiness" type="text" style="width: 73px" /></label></td>
+				<td>
+<label id="Label36">custom mod:<label id="Label37"><span class="auto-style26"><br />
+					<input name="Text152" style="width: 30px" type="text" /></span></label></label></td>
+			</tr>
+			<tr>
+				<td class="auto-style16" colspan="2">Max Actions Per Round</td>
+				<td class="auto-style16">&nbsp;</td>
+			</tr>
+			<tr>
+				<td class="auto-style23" style="border-top-color: #000000; border-right-color: #000000; border-left-color: #000000; border-color: #000000; width: 205px; background-color: #C0C0C0">
+				Standard Cost: 1<br />
+				<span class="auto-style15">(limit Mind Str + Body Dex)</span></td>
+				<td class="auto-style23">
+<label id="Label58">
+				<input name="attr_standardact" type="text" style="width: 73px" /></label></td>
+<label id="Label4">
+				<td>
+<label id="Label40"><label id="Label38"><label id="Label39">
+				<span class="auto-style26">
+					<input name="Text153" style="width: 30px" type="text" /></span></label></label></label></td>
+				</label>
+			</tr>
+			<tr>
+				<td style="width: 205px">Movement Cost: 2<br />
+				<span class="auto-style15">(limit BODY STR)</span></td>
+				<td>
+<label id="Label59">
+				<input name="attr_movementact" type="text" style="width: 73px" /></label></td>
+				<td>
+<label id="Label41"><label id="Label42"><label id="Label43">
+				<span class="auto-style26">
+					<input name="Text154" style="width: 30px" type="text" /></span></label></label></label></td>
+			</tr>
+			<tr>
+				<td class="auto-style23" style="width: 205px; background-color: #C0C0C0;">Combat Cost: 3<br />
+				<span class="auto-style15">(limit 1/2 round up MIND DEX)</span></td>
+				<td class="auto-style23">
+<label id="Label60">
+				<input name="attr_combatact" type="text" style="width: 73px; height: 22px" /></label></td>
+				<td class="auto-style23">
+<label id="Label44"><label id="Label45"><label id="Label46">
+				<span class="auto-style26">
+					<input name="Text155" style="width: 30px" type="text" /></span></label></label></label></td>
+			</tr>
+			<tr>
+				<td style="width: 205px">Defense cost: 1<br />
+				<span class="auto-style15">(limit Body RES)</span></td>
+				<td>
+<label id="Label61">
+				<input name="attr_defenseact" type="text" style="width: 73px" /></label></td>
+				<td>
+<label id="Label47"><label id="Label48"><label id="Label49">
+				<span class="auto-style26">
+					<input name="Text156" style="width: 30px" type="text" /></span></label></label></label></td>
+			</tr>
+			<tr>
+				<td class="auto-style23" style="width: 205px; background-color: #C0C0C0;">Command Cost: 3<br />
+				<span class="auto-style15">(limit: Community PRES)</span></td>
+				<td class="auto-style23">
+<label id="Label62">
+				<input name="attr_commandact" type="text" style="width: 73px" /></label></td>
+				<td class="auto-style23">
+<label id="Label50"><label id="Label51"><label id="Label52">
+				<span class="auto-style26">
+					<input name="Text157" style="width: 30px" type="text" /></span></label></label></label></td>
+			</tr>
+			<tr>
+				<td style="width: 205px">Support Cost: 3<br />
+				<span class="auto-style15">(limit: Body DEX)</span></td>
+				<td>
+<label id="Label63">
+				<input name="attr_supportact" type="text" style="width: 73px" /></label></td>
+				<td>
+<label id="Label53">
+<label id="Label54"><label id="Label55"><label id="Label56">
+				<span class="auto-style26">
+					<input name="Text158" style="width: 30px" type="text" /></span></label></label></label></label></td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+	</table>
+<label id="Label10">
+<label id="Label6">
+		<table align="left" cellpadding="0" cellspacing="1" class="auto-style5" style="font: small serif; border: thin #000000 outset; background-color: #C0C0C0; text-align: left;">
+	<tr>
+		<td class="auto-style2" colspan="4">
+		Armor</td>
+		<th class="auto-style6" rowspan="2">&nbsp;</th>
+	</tr>
+	<tr>
+		<td class="auto-style16" colspan="4">
+		<input name="attr_armordesc" style="width: 336px" type="text" /></td>
+	</tr>
+	<tr>
+		<td style="width: 68px">
+		<span class="auto-style15">Armor Type</span><br />
+		<input name="attr_armortype" type="text" /></td>
+		<td style="width: 80px">
+		&nbsp;</td>
+		<td style="width: 85px"><span class="auto-style15">Coverage</span><br />
+		<input name="attr_armorcoverage" type="text" /></td>
+		<td style="width: 85px"><span class="auto-style15">Hit points</span><br />
+		<input name="attr_armorhp" type="text" /></td>
+		<th class="auto-style6" rowspan="2">&nbsp;</th>
+	</tr>
+	<tr>
+		<td style="width: 68px; height: 20px;">
+		</td>
+		<td style="width: 80px; height: 20px;">
+		&nbsp;</td>
+		<td class="auto-style12" style="width: 85px; height: 20px;"></td>
+		<td class="auto-style11" style="width: 85px; height: 20px;">
+		</td>
+	</tr>
+	<tr>
+		<td style="width: 68px; height: 35px;">
+		<span class="auto-style15">EM SUITE</span><br />
+		<input name="attr_emsuite" type="text" /></td>
+		<td style="width: 80px; height: 35px;">
+		</td>
+		<td colspan="2" style="height: 35px">
+		<span class="auto-style15">MODIFIERS</span><br />
+		<input name="attr_armormods" style="width: 261px" type="text" /></td>
+		<th class="auto-style6" rowspan="2">&nbsp;</th>
+	</tr>
+	<tr>
+		<td colspan="4">
+		<span class="auto-style15">Upgrades</span><br />
+		<input name="attr_armorupgrades" style="width: 351px" type="text" /></td>
+	</tr>
+	<tr>
+		<td class="auto-style15" colspan="3">
+		Noteworthy Effects</td>
+		<td class="auto-style11" style="width: 85px">
+		&nbsp;</td>
+		<th class="auto-style6" rowspan="2">&nbsp;</th>
+	</tr>
+	<tr>
+		<td colspan="4">
+		<input name="attr_noteworthy1" style="width: 398px" type="text" /></td>
+	</tr>
+	<tr>
+		<td colspan="4">
+		<input name="attr_noteworthy2" style="width: 398px" type="text" /></td>
+		<th class="auto-style6" rowspan="2">&nbsp;</th>
+	</tr>
+	<tr>
+		<td colspan="4">
+		<input name="attr_noteworthy3" style="width: 398px" type="text" /></td>
+	</tr>
+	<tr>
+		<td style="width: 68px">
+		</td>
+		<td style="width: 80px">
+		</td>
+		<td class="auto-style12" style="width: 85px"></td>
+		<td class="auto-style11" style="width: 85px">
+		</td>
+		<th class="auto-style6" rowspan="2">&nbsp;</th>
+	</tr>
+	<tr>
+		<td colspan="3">
+		Shield Type</td>
+		<td class="auto-style11" style="width: 85px">
+		&nbsp;</td>
+	</tr>
+	<tr>
+		<td colspan="4">
+		<input name="attr_shielddesc" style="width: 398px" type="text" /></td>
+		<th class="auto-style6" rowspan="2">&nbsp;</th>
+	</tr>
+	<tr>
+		<td colspan="2">
+		Hit Points:<input name="attr_shieldhp" type="text" /></td>
+		<td class="auto-style12" colspan="2">Size:<label id="Label19"><label id="Label20"><label id="Label21"><select class="auto-style40" name="attr_shieldsize">
+		<option value="Small">Small</option>
+		<option value="Large">Large</option>
+		<option value="LAN">LAN</option>
+		<option selected="selected" value="Medium">Medium</option>
+		</select></label></label></label></td>
+	</tr>
+	<tr>
+		<td colspan="4" rowspan="4">
+		&nbsp;</td>
+		<th class="auto-style6">&nbsp;</th>
+	</tr>
+	<tr>
+		<th class="auto-style6">&nbsp;</th>
+	</tr>
+	<tr>
+		<th class="auto-style6">&nbsp;</th>
+	</tr>
+	<tr>
+		<th class="auto-style6">&nbsp;</th>
+	</tr>
+</table>
+		</label></label></td>
+	</tr>
+	<tr>
+		<td> 
+<table cellpadding="4" style="height: 262px; background-color: #C0C0C0;" class="auto-style23">
+	<tr>
+		<td style="width: 247px; height: 21px" class="auto-style38">
+		<span class="auto-style36">Focus Abilities</span></td>
+		<td rowspan="9" class="auto-style38">&nbsp;</td>
+		<td style="width: 319px; height: 21px" class="auto-style37">Family Abilities</td>
+	</tr>
+	<tr>
+		<td style="width: 247px" class="auto-style38">
+		<input name="attr_focus1" type="text" class="auto-style25" style="width: 164px" /></td>
+		<td style="width: 319px" class="auto-style38">
+		<input name="attr_focus2" type="text" class="auto-style25" style="width: 164px" /></td>
+	</tr>
+	<tr>
+		<td style="width: 247px" class="auto-style38">
+		<input name="attr_focus3" type="text" class="auto-style25" style="width: 164px" /></td>
+		<td style="width: 319px" class="auto-style38">
+		<input name="attr_focus4" type="text" class="auto-style25" style="width: 164px" /></td>
+	</tr>
+	<tr>
+		<td style="width: 247px" class="auto-style38">
+		<input name="attr_focus5" type="text" class="auto-style25" style="width: 164px" /></td>
+		<td style="width: 319px" class="auto-style38">
+		<input name="attr_focus6" type="text" class="auto-style25" style="width: 164px" /></td>
+	</tr>
+	<tr>
+		<td style="width: 247px" class="auto-style38">
+		<input name="attr_focus7" type="text" class="auto-style25" style="width: 164px" /></td>
+		<td style="width: 319px" class="auto-style38">
+		<input name="attr_focus8" type="text" class="auto-style25" style="width: 164px" /></td>
+	</tr>
+	<tr>
+		<td style="width: 247px" class="auto-style38">
+		<input name="attr_focus9" type="text" class="auto-style25" style="width: 164px" /></td>
+		<td style="width: 319px" class="auto-style38">
+		<input name="attr_focus10" type="text" class="auto-style25" style="width: 164px" /></td>
+	</tr>
+	<tr>
+		<td style="width: 247px" class="auto-style38">
+		<input name="attr_focus11" type="text" class="auto-style25" style="width: 164px" /></td>
+		<td style="width: 319px" class="auto-style38">
+		<input name="attr_focus12" type="text" class="auto-style25" style="width: 164px" /></td>
+	</tr>
+	<tr>
+		<td style="width: 247px" class="auto-style38">
+		<input name="attr_focus13" type="text" class="auto-style25" style="width: 164px" /></td>
+		<td style="width: 319px" class="auto-style38">
+		<input name="attr_focus14" type="text" class="auto-style25" style="width: 164px" /></td>
+	</tr>
+	<tr>
+		<td style="width: 247px" class="auto-style38">
+		<input name="attr_focus15" type="text" class="auto-style25" style="width: 164px" /></td>
+		<td style="width: 319px" class="auto-style38">
+		<input name="attr_focus16" type="text" class="auto-style25" style="width: 164px" /></td>
+	</tr>
+</table>
+<label id="Label17">
+		<table style="width: 100%">
+			<tr>
+				<td><span class="auto-style31">IMPLANTS&nbsp;</span>&nbsp;&nbsp;&nbsp;</td>
+			</tr>
+			<tr>
+				<td><span class="auto-style32">Max Active:</span><input name="attr_implantmaxactive" type="text" style="width: 38px" /><span class="auto-style32">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+		Max Installed:
+				</span>
+				<input name="attr_implantmaxinstalled" type="text" style="width: 38px" /></td>
+			</tr>
+			<tr>
+				<td>
+		<table style="width: 437px">
+			<tr class="auto-style19">
+				<td>Standard Implants</td>
+				<td>Active:</td>
+				<td>Standard Implants</td>
+				<td>Active:</td>
+			</tr>
+			<tr class="auto-style20">
+				<td>
+				<input name="attr_standardimplant1" type="text" /></td>
+				<td class="auto-style28"><strong>
+		<input name="attr_stndimplactive1" type="checkbox" value="1" /></strong></td>
+				<td>
+				<input name="attr_standardimplant2" type="text" /></td>
+				<td class="auto-style28"><strong>
+		<input name="attr_stndimplactive4" type="checkbox" value="1" /></strong></td>
+			</tr>
+			<tr class="auto-style20">
+				<td>
+				<input name="attr_standardimplant10" type="text" /></td>
+				<td class="auto-style28"><strong>
+		<input name="attr_stndimplactive2" type="checkbox" value="1" /></strong></td>
+				<td>
+				<input name="attr_standardimplant3" type="text" /></td>
+				<td class="auto-style28"><strong>
+		<input name="attr_stndimplactive3" type="checkbox" value="1" /></strong></td>
+			</tr>
+			<tr class="auto-style20">
+				<td>
+				<input name="attr_standardimplant4" type="text" /></td>
+				<td class="auto-style28"><strong>
+		<input name="attr_stndimplactive5" type="checkbox" value="1" /></strong></td>
+				<td>
+				<input name="attr_standardimplant5" type="text" /></td>
+				<td class="auto-style28"><strong>
+		<input name="attr_stndimplactive6" type="checkbox" value="1" /></strong></td>
+			</tr>
+			<tr class="auto-style20">
+				<td>
+				<input name="attr_standardimplant6" type="text" /></td>
+				<td class="auto-style28"><strong>
+		<input name="attr_stndimplactive7" type="checkbox" value="1" /></strong></td>
+				<td>
+				<input name="attr_standardimplant7" type="text" /></td>
+				<td class="auto-style28"><strong>
+		<input name="attr_stndimplactive8" type="checkbox" value="1" /></strong></td>
+			</tr>
+			<tr class="auto-style20">
+				<td>
+				<input name="attr_standardimplant8" type="text" /></td>
+				<td class="auto-style28"><strong>
+		<input name="attr_stndimplactive9" type="checkbox" value="1" /></strong></td>
+				<td>
+				<input name="attr_standardimplant9" type="text" /></td>
+				<td class="auto-style28"><strong>
+		<input name="attr_stndimplactive10" type="checkbox" value="1" /></strong></td>
+			</tr>
+		</table>
+				</td>
+			</tr>
+			<tr>
+				<td>
+		<table class="auto-style20" style="width: 437px">
+			<tr class="auto-style20">
+				<td>Transcendent Implants</td>
+				<td>Active:</td>
+				<td>Transcendent Implants</td>
+				<td>Active:</td>
+			</tr>
+			<tr>
+				<td class="auto-style20">
+				<input name="attr_standardimplant11" type="text" /></td>
+				<td class="auto-style29"><strong>
+		<input name="attr_stndimplactive11" type="checkbox" value="1" /></strong></td>
+				<td class="auto-style20">
+				<input name="attr_standardimplant12" type="text" /></td>
+				<td class="auto-style28"><strong>
+		<input name="attr_stndimplactive12" type="checkbox" value="1" /></strong></td>
+			</tr>
+			<tr>
+				<td class="auto-style20">
+				<input name="attr_standardimplant13" type="text" /></td>
+				<td class="auto-style29"><strong>
+		<input name="attr_stndimplactive13" type="checkbox" value="1" /></strong></td>
+				<td class="auto-style20">
+				<input name="attr_standardimplant14" type="text" /></td>
+				<td class="auto-style28"><strong>
+		<input name="attr_stndimplactive14" type="checkbox" value="1" /></strong></td>
+			</tr>
+			<tr>
+				<td class="auto-style20">
+				<input name="attr_standardimplant15" type="text" /></td>
+				<td class="auto-style29"><strong>
+		<input name="attr_stndimplactive15" type="checkbox" value="1" /></strong></td>
+				<td class="auto-style20">
+				<input name="attr_standardimplant16" type="text" /></td>
+				<td class="auto-style28"><strong>
+		<input name="attr_stndimplactive16" type="checkbox" value="1" /></strong></td>
+			</tr>
+			<tr>
+				<td class="auto-style20">
+				<input name="attr_standardimplant17" type="text" /></td>
+				<td class="auto-style29"><strong>
+		<input name="attr_stndimplactive17" type="checkbox" value="1" /></strong></td>
+				<td class="auto-style20">
+				<input name="attr_standardimplant18" type="text" /></td>
+				<td class="auto-style28"><strong>
+		<input name="attr_stndimplactive18" type="checkbox" value="1" /></strong></td>
+			</tr>
+			<tr>
+				<td class="auto-style20">
+				<input name="attr_standardimplant19" type="text" /></td>
+				<td class="auto-style29"><strong>
+		<input name="attr_stndimplactive19" type="checkbox" value="1" /></strong></td>
+				<td class="auto-style20">
+				<input name="attr_standardimplant20" type="text" /></td>
+				<td class="auto-style28"><strong>
+		<input name="attr_stndimplactive20" type="checkbox" value="1" /></strong></td>
+			</tr>
+		</table>
+				</td>
+			</tr>
+			<tr>
+				<td>Physical appearance or 
+		effects of implants:<form method="post">
+			<textarea class="auto-style27" cols="20" name="attr_implanteffects" rows="1" style="width: 492px; height: 65px"></textarea></form>
+				</td>
+			</tr>
+			<tr>
+				<td>
+		<table class="auto-style20" style="width: 437px">
+			<tr class="auto-style20">
+				<td colspan="2">SURGERY</td>
+			</tr>
+			<tr>
+				<td class="auto-style20">
+				Reclaimed 1:</td>
+				<td class="auto-style29">
+				<input name="attr_reclaimed1" type="text" style="width: 269px" /></td>
+			</tr>
+			<tr>
+				<td class="auto-style20">
+				Reclaimed 2:</td>
+				<td class="auto-style29">
+				<input name="attr_reclaimed4" type="text" style="width: 269px" /></td>
+			</tr>
+			<tr>
+				<td class="auto-style20">
+				Reclaimed 3:</td>
+				<td class="auto-style29">
+				<input name="attr_reclaimed5" type="text" style="width: 269px" /></td>
+			</tr>
+			<tr>
+				<td class="auto-style20" colspan="2">
+				Surgical History</td>
+			</tr>
+			<tr>
+				<td class="auto-style20" colspan="2">
+				<textarea class="auto-style27" cols="20" name="attr_implanteffects0" rows="1" style="width: 492px; height: 65px"></textarea></td>
+			</tr>
+		</table>
+				</td>
+			</tr>
+		</table>
+		</label></td>
+		<td>
+<label id="Label11">
+<label id="Label7">
+		<table class="auto-style20" style="border-bottom-color: #000000; border-top-width: thin; border-color: #000000; border-width: thin; font: small serif; border: thin #000000 solid; width: 636px; background-color: #C0C0C0; border-top-color: #000000; border-top-style: solid;">
+			<tr>
+				<td colspan="3" class="auto-style40"><b>Weapon:<br />
+				</b>
+				<input name="attr_weaponname1" style="width: 276px" type="text" class="auto-style40" /></td>
+				<td><b>Type:<br />
+				</b><select class="auto-style40" name="attr_weapontype1">
+				<option>Range</option>
+				<option>Melee</option>
+				</select></td>
+			</tr>
+			<tr>
+				<td style="height: 45px" class="auto-style40"><b>Base:
+				</b>
+				<input name="attr_weaponbase1" type="text" class="auto-style40" /></td>
+				<td style="height: 45px; width: 113px;"><b>Rate of Fire:
+				</b>
+				<input name="attr_weaponrof1" type="text" class="auto-style40" /></td>
+				<td style="height: 45px; width: 13px;"><b>Size:<br />
+				</b>
+				<input name="attr_weaponsize1" type="text" class="auto-style40" /></td>
+				<td style="height: 45px">R<span class="auto-style41">oll:</span><br />
+				<input name="attr_weaponroll1" type="text" /></td>
+			</tr>
+			<tr>
+				<td style="width: 163px; " class="auto-style40" rowspan="3">AMMO CLIP</td>
+				<td style="width: 113px;" rowspan="2"><b>Size:<br />
+				</b><select class="auto-style40" name="attr_ammosize1">
+				<option value="Small">Small</option>
+				<option value="Large">Large</option>
+				<option value="LAN">LAN</option>
+				<option selected="selected" value="Medium">Medium</option>
+				</select></td>
+				<td style="height: 29px" colspan="2"><b>Weapon Mods:<br />
+				</b>
+				<input name="attr_weaponmod4" style="width: 374px" type="text" class="auto-style40" /></td>
+			</tr>
+			<tr>
+				<td colspan="2" class="auto-style40" rowspan="2"><b>Ammo Mods:<br />
+				</b>
+				<input name="attr_weaponmod1" style="width: 374px" type="text" class="auto-style40" /></td>
+			</tr>
+			<tr>
+				<td class="auto-style40" style="width: 113px"><b>Type:<br />
+				</b><select class="auto-style40" name="attr_ammotype1">
+				<option value="Armor Piercing">Armor piercing</option>
+				<option value="High Explosive">High explosive</option>
+				<option value="Hollow tipped">Hollow tipped</option>
+				<option selected="selected" value="Regular">Standard</option>
+				<option value="Incendiary">Incendiary</option>
+				<option value="Less than Letal">Less than Letal</option>
+				<option value="Poisonous">Poisonous</option>
+				</select><b><br />
+				</b></td>
+			</tr>
+		</table>
+		</label></label>
+<label id="Label12">
+<label id="Label13">
+		<table class="auto-style20" style="border-bottom-color: #000000; border-top-width: thin; border-color: #000000; border-width: thin; font: small serif; border: thin #000000 solid; width: 636px; background-color: #C0C0C0; border-top-color: #000000; border-top-style: solid;">
+			<tr>
+				<td colspan="3" class="auto-style40"><b>Weapon:<br />
+				</b>
+				<input name="attr_weaponname6" style="width: 276px" type="text" class="auto-style40" /></td>
+				<td><b>Type:<br />
+				</b><select class="auto-style40" name="attr_weapontype6">
+				<option>Range</option>
+				<option>Melee</option>
+				</select></td>
+			</tr>
+			<tr>
+				<td style="height: 45px" class="auto-style40"><b>Base:
+				</b>
+				<input name="attr_weaponbase6" type="text" class="auto-style40" /></td>
+				<td style="height: 45px; width: 113px;"><b>Rate of Fire:
+				</b>
+				<input name="attr_weaponrof6" type="text" class="auto-style40" /></td>
+				<td style="height: 45px; width: 13px;"><b>Size:<br />
+				</b>
+				<input name="attr_weaponsize6" type="text" class="auto-style40" /></td>
+				<td style="height: 45px">R<span class="auto-style41">oll:</span><br />
+				<input name="attr_weaponroll6" type="text" /></td>
+			</tr>
+			<tr>
+				<td style="width: 163px; " class="auto-style40" rowspan="3">AMMO CLIP</td>
+				<td style="width: 113px;" rowspan="2"><b>Size:<br />
+				</b><select class="auto-style40" name="attr_ammosize6">
+				<option value="Small">Small</option>
+				<option value="Large">Large</option>
+				<option value="LAN">LAN</option>
+				<option selected="selected" value="Medium">Medium</option>
+				</select></td>
+				<td style="height: 29px" colspan="2"><b>Weapon Mods:<br />
+				</b>
+				<input name="attr_weaponmod13" style="width: 374px" type="text" class="auto-style40" /></td>
+			</tr>
+			<tr>
+				<td colspan="2" class="auto-style40" rowspan="2"><b>Ammo Mods:<br />
+				</b>
+				<input name="attr_weaponmod14" style="width: 374px" type="text" class="auto-style40" /></td>
+			</tr>
+			<tr>
+				<td class="auto-style40" style="width: 113px"><b>Type:<br />
+				</b><select class="auto-style40" name="attr_ammotype6">
+				<option value="Armor Piercing">Armor piercing</option>
+				<option value="High Explosive">High explosive</option>
+				<option value="Hollow tipped">Hollow tipped</option>
+				<option selected="selected" value="Regular">Standard</option>
+				<option value="Incendiary">Incendiary</option>
+				<option value="Less than Letal">Less than Letal</option>
+				<option value="Poisonous">Poisonous</option>
+				</select><b><br />
+				</b></td>
+			</tr>
+		</table>
+		</label></label>
+<label id="Label14">
+<label id="Label15">
+		<table class="auto-style20" style="border-bottom-color: #000000; border-top-width: thin; border-color: #000000; border-width: thin; font: small serif; border: thin #000000 solid; width: 636px; background-color: #C0C0C0; border-top-color: #000000; border-top-style: solid;">
+			<tr>
+				<td colspan="3" class="auto-style40"><b>Weapon:<br />
+				</b>
+				<input name="attr_weaponname7" style="width: 276px" type="text" class="auto-style40" /></td>
+				<td><b>Type:<br />
+				</b><select class="auto-style40" name="attr_weapontype7">
+				<option>Range</option>
+				<option>Melee</option>
+				</select></td>
+			</tr>
+			<tr>
+				<td style="height: 45px" class="auto-style40"><b>Base:
+				</b>
+				<input name="attr_weaponbase7" type="text" class="auto-style40" /></td>
+				<td style="height: 45px; width: 113px;"><b>Rate of Fire:
+				</b>
+				<input name="attr_weaponrof7" type="text" class="auto-style40" /></td>
+				<td style="height: 45px; width: 13px;"><b>Size:<br />
+				</b>
+				<input name="attr_weaponsize7" type="text" class="auto-style40" /></td>
+				<td style="height: 45px">R<span class="auto-style41">oll:</span><br />
+				<input name="attr_weaponroll7" type="text" /></td>
+			</tr>
+			<tr>
+				<td style="width: 163px; " class="auto-style40" rowspan="3">AMMO CLIP</td>
+				<td style="width: 113px;" rowspan="2"><b>Size:<br />
+				</b><select class="auto-style40" name="attr_ammosize7">
+				<option value="Small">Small</option>
+				<option value="Large">Large</option>
+				<option value="LAN">LAN</option>
+				<option selected="selected" value="Medium">Medium</option>
+				</select></td>
+				<td style="height: 29px" colspan="2"><b>Weapon Mods:<br />
+				</b>
+				<input name="attr_weaponmod15" style="width: 374px" type="text" class="auto-style40" /></td>
+			</tr>
+			<tr>
+				<td colspan="2" class="auto-style40" rowspan="2"><b>Ammo Mods:<br />
+				</b>
+				<input name="attr_weaponmod16" style="width: 374px" type="text" class="auto-style40" /></td>
+			</tr>
+			<tr>
+				<td class="auto-style40" style="width: 113px"><b>Type:<br />
+				</b><select class="auto-style40" name="attr_ammotype7">
+				<option value="Armor Piercing">Armor piercing</option>
+				<option value="High Explosive">High explosive</option>
+				<option value="Hollow tipped">Hollow tipped</option>
+				<option selected="selected" value="Regular">Standard</option>
+				<option value="Incendiary">Incendiary</option>
+				<option value="Less than Letal">Less than Letal</option>
+				<option value="Poisonous">Poisonous</option>
+				</select><b><br />
+				</b></td>
+			</tr>
+		</table>
+		</label></label>
+<label id="Label18">
+<label id="Label16">
+		<table class="auto-style20" style="font: x-small serif; width: 681px; border-bottom-color: #000000; border-bottom-style: solid; border-bottom-width: thin; text-align: center;">
+			<tr>
+				<th colspan="4">Equipment</th>
+			</tr>
+			<tr>
+				<td style="font: small serif; width: 273px">Credits:&nbsp;
+				<input name="attr_money0" style="width: 78px" type="text" /><br />
+				Debt:&nbsp;&nbsp;&nbsp;&nbsp;
+				<input name="attr_debt0" style="width: 78px" type="text" /></td>
+				<td style="font: small serif; width: 140px">Weight Limit:<br />
+				<input name="attr_carrycapacity0" type="text" style="width: 76px" /></td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+			</tr>
+			<tr>
+				<td style="font: small serif; width: 273px">Weapons &amp; Armor</td>
+				<td style="font: x-small serif; width: 140px">Approx Weight:</td>
+				<td>Other Items:<br />
+				</td>
+				<td>Approx Weight:</td>
+			</tr>
+			<tr>
+				<td style="width: 273px">
+				<input name="attr_equiplist21" style="width: 214px" type="text" /></td>
+				<td style="width: 140px">
+				<input name="attr_itemweight21" style="width: 78px" type="text" /></td>
+				<td>
+				<input name="attr_equiplist22" style="width: 239px" type="text" /></td>
+				<td>
+				<input name="attr_itemweight22" style="width: 78px" type="text" /></td>
+			</tr>
+			<tr>
+				<td style="width: 273px">
+				<input name="attr_equiplist23" style="width: 214px" type="text" /></td>
+				<td style="width: 140px">
+				<input name="attr_itemweight23" style="width: 78px" type="text" /></td>
+				<td>
+				<input name="attr_equiplist24" style="width: 239px" type="text" /></td>
+				<td>
+				<input name="attr_itemweight24" style="width: 78px" type="text" /></td>
+			</tr>
+			<tr>
+				<td style="width: 273px">
+				<input name="attr_equiplist25" style="width: 214px" type="text" /></td>
+				<td style="width: 140px">
+				<input name="attr_itemweight25" style="width: 78px" type="text" /></td>
+				<td>
+				<input name="attr_equiplist26" style="width: 239px" type="text" /></td>
+				<td>
+				<input name="attr_itemweight26" style="width: 78px" type="text" /></td>
+			</tr>
+			<tr>
+				<td style="width: 273px">
+				<input name="attr_equiplist27" style="width: 214px" type="text" /></td>
+				<td style="width: 140px">
+				<input name="attr_itemweight27" style="width: 78px" type="text" /></td>
+				<td>
+				<input name="attr_equiplist28" style="width: 239px" type="text" /></td>
+				<td>
+				<input name="attr_itemweight28" style="width: 78px" type="text" /></td>
+			</tr>
+			<tr>
+				<td style="width: 273px">
+				<input name="attr_equiplist29" style="width: 214px" type="text" /></td>
+				<td style="width: 140px">
+				<input name="attr_itemweight29" style="width: 78px" type="text" /></td>
+				<td>
+				<input name="attr_equiplist30" style="width: 239px" type="text" /></td>
+				<td>
+				<input name="attr_itemweight30" style="width: 78px" type="text" /></td>
+			</tr>
+			<tr>
+				<td style="width: 273px">
+				<input name="attr_equiplist31" style="width: 214px" type="text" /></td>
+				<td style="width: 140px">
+				<input name="attr_itemweight31" style="width: 78px" type="text" /></td>
+				<td>
+				<input name="attr_equiplist32" style="width: 239px" type="text" /></td>
+				<td>
+				<input name="attr_itemweight32" style="width: 78px" type="text" /></td>
+			</tr>
+			<tr>
+				<td style="width: 273px">
+				<input name="attr_equiplist33" style="width: 214px" type="text" /></td>
+				<td style="width: 140px">
+				<input name="attr_itemweight33" style="width: 78px" type="text" /></td>
+				<td>
+				<input name="attr_equiplist34" style="width: 239px" type="text" /></td>
+				<td>
+				<input name="attr_itemweight34" style="width: 78px" type="text" /></td>
+			</tr>
+			<tr>
+				<td style="width: 273px">
+				<input name="attr_equiplist35" style="width: 214px" type="text" /></td>
+				<td style="width: 140px">
+				<input name="attr_itemweight35" style="width: 78px" type="text" /></td>
+				<td>
+				<input name="attr_equiplist36" style="width: 239px" type="text" /></td>
+				<td>
+				<input name="attr_itemweight36" style="width: 78px" type="text" /></td>
+			</tr>
+			<tr>
+				<td style="width: 273px">
+				<input name="attr_equiplist37" style="width: 214px" type="text" /></td>
+				<td style="width: 140px">
+				<input name="attr_itemweight37" style="width: 78px" type="text" /></td>
+				<td>
+				<input name="attr_equiplist38" style="width: 239px" type="text" /></td>
+				<td>
+				<input name="attr_itemweight38" style="width: 78px" type="text" /></td>
+			</tr>
+			<tr>
+				<td style="width: 273px">
+				<input name="attr_equiplist39" style="width: 214px" type="text" /></td>
+				<td style="width: 140px">
+				<input name="attr_itemweight39" style="width: 78px" type="text" /></td>
+				<td>
+				<input name="attr_equiplist40" style="width: 239px" type="text" /></td>
+				<td>
+				<input name="attr_itemweight40" style="width: 78px" type="text" /></td>
+			</tr>
+			<tr>
+				<td style="width: 273px">&nbsp;</td>
+				<td style="width: 140px">&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+			</tr>
+			<tr>
+				<td style="width: 273px">&nbsp;</td>
+				<td style="width: 140px">&nbsp;</td>
+				<td>&nbsp;</td>
+				<td>&nbsp;</td>
+			</tr>
+		</table>
+		</label></label></td>
+	</tr>
+	<tr>
+		<td style="width: 510px; font-style: oblique; font-weight: bolder; border-right-color: #000000; border-right-style: solid; border-right-width: thin;" class="auto-style28">&nbsp;&nbsp;&nbsp;&nbsp;
+		<br />
+		</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td style="width: 510px; font-style: oblique; font-weight: bolder; border-right-color: #000000; border-right-style: solid; border-right-width: thin;" class="auto-style28">
+		&nbsp;</td>
+		<td>Extra<label id="Label69"> Notes:</label></td>
+	</tr>
+	<tr>
+		<td style="width: 510px; font-style: oblique; font-weight: bolder; border-right-style: solid; border-right-width: thin; border-right-color: #000000;">Character History/Description:</br>
+		<textarea class="auto-style27" cols="20" name="attr_characterblurp" rows="1" style="width: 492px; height: 65px"></textarea><br />
+		Player Notes:<br />
+		<textarea class="auto-style27" cols="20" name="attr_playernotes" rows="1" style="width: 492px; height: 65px"></textarea><br />
+		</td>
+		<td>
+		<form method="post">
+			<textarea class="auto-style27" name="TextArea1" style="width: 681px; height: 143px"></textarea></form>
+		</td>
+	</tr>
+	<tr>
+		<td style="width: 510px; font-style: oblique; font-weight: bolder; border-right-style: solid; border-right-width: thin; border-right-color: #000000;">
+		&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
+</table>
+<br />
+<br />
+</label><label id="Label5"></label>
+<p></p>
+&nbsp;&nbsp;&nbsp;
+<p>&nbsp;&nbsp;&nbsp; 
+</p>
+
+<p>&nbsp;</p>
+
+</body>
+
+</html>
